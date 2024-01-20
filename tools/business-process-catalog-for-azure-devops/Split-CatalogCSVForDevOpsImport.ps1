@@ -1,7 +1,5 @@
-# Split the catalog CSV file into smaller files for import into Azure DevOps
-# Each file should contain 1000 or less rows
-# The first row is the header row
-# The split must always occur before a line that has the value "Epic" in second column (Work Item Type)
+# This script can be used to split the Microsoft Dynamics 365 Business Process Catalog CSV file
+# into smaller files for import into Azure DevOps.
 
 # Usage: .\Split-CatalogCSVForDevOpsImport.ps1 -CatalogFile "C:\Users\<username>\Downloads\Business Process Catalog ADO Upload DEC2023.csv"
 
@@ -33,6 +31,7 @@ function CreateSplitFile {
   $splitFile | Set-Content -Path "$CatalogFileNameWithoutExtension-Part$FileCounter.csv"
 }
 
+# The actual script starts here
 $catalogFileNameWithoutExtension = [System.IO.Path]::GetFileNameWithoutExtension($CatalogFile)
 
 # Import the CSV file
