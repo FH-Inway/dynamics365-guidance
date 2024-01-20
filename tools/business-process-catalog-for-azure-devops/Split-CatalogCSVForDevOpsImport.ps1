@@ -1,5 +1,6 @@
 # This script can be used to split the Microsoft Dynamics 365 Business Process Catalog CSV file
 # into smaller files for import into Azure DevOps.
+# See https://learn.microsoft.com/en-us/dynamics365/guidance/business-processes/about-import-catalog-devops
 
 # Usage: .\Split-CatalogCSVForDevOpsImport.ps1 -CatalogFile "C:\Users\<username>\Downloads\Business Process Catalog ADO Upload DEC2023.csv"
 
