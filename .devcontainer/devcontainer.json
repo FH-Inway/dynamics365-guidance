@@ -7,7 +7,8 @@
     "vscode": {
       "extensions": [
         "yzhang.markdown-all-in-one",
-        "ms-vscode.powershell"
+        "ms-vscode.powershell",
+        "janisdd.vscode-edit-csv"
       ]
     }
   }
