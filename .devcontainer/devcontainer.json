@@ -1,0 +1,14 @@
+{
+  "name": "PowerShell",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.powershell"
+      ]
+    }
+  }
+}
