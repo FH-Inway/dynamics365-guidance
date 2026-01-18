@@ -1,0 +1,7 @@
+{
+    "organization": "my-organization",
+    "project": "TODO",
+    "process": "my-process",
+    "personal-access-token-env-var": "AZURE_DEVOPS_PAT",
+    "api-version": "7.1"
+}
