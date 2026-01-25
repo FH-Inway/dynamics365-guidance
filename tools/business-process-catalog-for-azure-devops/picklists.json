@@ -1,0 +1,806 @@
+{
+  "source": "D:\\Repositories\\GitHub\\MicrosoftDocs\\dynamics365-guidance\\tools\\business-process-catalog-for-azure-devops\\ADO template guideline.xlsx",
+  "sheetName": "Picklists",
+  "picklists": [
+    {
+      "name": "Partner workshop type",
+      "items": [
+        "Partner defined"
+      ]
+    },
+    {
+      "name": "Workstream",
+      "items": [
+        "Partner defined"
+      ]
+    },
+    {
+      "name": "Authorized for deployment",
+      "items": [
+        "Partner defined",
+        "DEV",
+        "TEST",
+        "PROD"
+      ]
+    },
+    {
+      "name": "Current highest deployment",
+      "items": [
+        "Partner defined",
+        "DEV",
+        "TEST",
+        "PROD"
+      ]
+    },
+    {
+      "name": "Application family",
+      "items": [
+        "Azure",
+        "Business Central",
+        "Cross Functional",
+        "Customer Engagement",
+        "Finance and Operations",
+        "Productivity",
+        "Power Platform"
+      ]
+    },
+    {
+      "name": "Article status",
+      "items": [
+        "10 - Not started",
+        "20 - In progress",
+        "30 - Assigned",
+        "40 - Technical review",
+        "50 - Publish requested",
+        "60 - Published",
+        "70 - Update required",
+        "90 - Help wanted"
+      ]
+    },
+    {
+      "name": "Baseline complexity",
+      "items": [
+        "L - Large",
+        "M - Medium",
+        "S - Small",
+        "XL - Extra Large",
+        "XS - Extra Small"
+      ]
+    },
+    {
+      "name": "Business process flow status",
+      "items": [
+        "10 - Not started",
+        "20 - Drafted",
+        "30 - Published",
+        "40 - Updated",
+        "50 - Update required"
+      ]
+    },
+    {
+      "name": "Catalog status",
+      "items": [
+        "10 - New",
+        "20 - Review",
+        "30 - Updated",
+        "40 - Published",
+        "50 - Custom",
+        "60 - Deprecated",
+        "70 - Deleted"
+      ]
+    },
+    {
+      "name": "Fit gap status",
+      "items": [
+        "Fit",
+        "Gap",
+        "Unspecified"
+      ]
+    },
+    {
+      "name": "Gap solution approach",
+      "items": [
+        "10 - Unspecified",
+        "20 - Personalization",
+        "30 - Power Platform",
+        "40 - Java/Plug-in",
+        "50 - X++ Extension",
+        "60 - ISV",
+        "70 - ISV Extension"
+      ]
+    },
+    {
+      "name": "Industries",
+      "items": [
+        "Agriculture (01-09)",
+        "Construction (15-17)",
+        "Finance, Insurance, Real Estate (60-67)",
+        "Manufacturing (20-39)",
+        "Mining (10-14)",
+        "Public Administration (90-99)",
+        "Retail Trade (52-59)",
+        "Services (70-89)",
+        "Transportation and Public Utilities (40-49)",
+        "Wholesales Trade (50-51)"
+      ]
+    },
+    {
+      "name": "Module",
+      "items": [
+        "Accounts payable",
+        "Accounts receivable",
+        "App settings",
+        "Asset leasing",
+        "Asset management",
+        "Audit workbench",
+        "Benefits management",
+        "Budgeting",
+        "Cash and bank management",
+        "Common",
+        "Consolidations",
+        "Cost accounting",
+        "Cost management",
+        "Credit and collections",
+        "Demand planning",
+        "Engineering change management",
+        "Expense management",
+        "Fiscal books",
+        "Fixed assets",
+        "General ledger",
+        "Human resources",
+        "Inventory",
+        "Inventory management",
+        "Landed cost",
+        "Leave and absence",
+        "Master planning",
+        "Material handling equipment interface",
+        "Organization administration",
+        "Payroll",
+        "Personal settings",
+        "Pricing management",
+        "Procurement and sourcing",
+        "Product information management",
+        "Production control",
+        "Project management and accounting",
+        "Projects",
+        "Questionnaire",
+        "Rebate management",
+        "Resources",
+        "Retail",
+        "Sales",
+        "Sales and marketing",
+        "Sales insights settings",
+        "Scheduling",
+        "Service",
+        "Service management",
+        "Systems settings",
+        "Tax",
+        "Time and attendance",
+        "Transportation management",
+        "Warehouse management"
+      ]
+    },
+    {
+      "name": "Priority",
+      "items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "name": "Products",
+      "items": [
+        "Azure",
+        "Business Central",
+        "Commerce",
+        "Copilot Studio",
+        "Customer Insights Data",
+        "Customer Insights Journey",
+        "Customer Service",
+        "Customer Voice",
+        "Field Service",
+        "Finance",
+        "Fraud Protection",
+        "Guides",
+        "Human Resources",
+        "Microsoft 365",
+        "Other",
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "Power Pages",
+        "Project",
+        "Project Operations",
+        "Remote Assist",
+        "Sales",
+        "Sales Copilot",
+        "SharePoint",
+        "Supply Chain Management",
+        "Teams"
+      ]
+    },
+    {
+      "name": "Risk",
+      "items": [
+        "1 - Low",
+        "2 - Medium",
+        "3 - High"
+      ]
+    },
+    {
+      "name": "Scope",
+      "items": [
+        "10 - Unspecified",
+        "20 - In scope",
+        "30 - Out of scope",
+        "40 - Not applicable"
+      ]
+    },
+    {
+      "name": "Success by Design phase",
+      "items": [
+        "10 - Strategize",
+        "20 - Initiate",
+        "31 - Implement - Analysis",
+        "32 - Implement - Design",
+        "33 - Implement - Development",
+        "34 - Implement - Test",
+        "45 - Prepare - Train",
+        "49 - Prepare - Cutover",
+        "50 - Operate"
+      ]
+    },
+    {
+      "name": "Configuration type",
+      "items": [
+        "Parameters",
+        "Number sequences",
+        "List of values"
+      ]
+    },
+    {
+      "name": "Development technology",
+      "items": [
+        "Azure Data Bricks",
+        "Azure Data Factory",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Business Events",
+        "C#",
+        "Canvas App",
+        "Commerce SDK",
+        "Copilot Studio",
+        "Java Script",
+        "Model Driven App",
+        "Plug-in",
+        "Power Pages",
+        "React/Bootstrap",
+        "X++"
+      ]
+    },
+    {
+      "name": "Migration method",
+      "items": [
+        "3rd Party ETL tool",
+        "API based",
+        "Azure Data Factory",
+        "Custom ETL tool",
+        "Data import wizard",
+        "Data management framework (DMF)",
+        "Dual Write",
+        "Excel Add-in",
+        "Manual entry",
+        "Other",
+        "Power Query",
+        "Script",
+        "Stored Procedure"
+      ]
+    },
+    {
+      "name": "Data type",
+      "items": [
+        "Master data",
+        "Setup data",
+        "Transactional data"
+      ]
+    },
+    {
+      "name": "Validation method",
+      "items": [
+        "Audit trail review",
+        "Automated reconciliation",
+        "Business user sign-off",
+        "Checksum validation",
+        "Manual spot check",
+        "Record counts",
+        "Test case execution"
+      ]
+    },
+    {
+      "name": "Interface mode",
+      "items": [
+        "Batch (one-time)",
+        "Event driven",
+        "Hybrid",
+        "Manual trigger",
+        "Near real-time (Asynchronous)",
+        "Real-time (Synchronous)",
+        "Recurring batch"
+      ]
+    },
+    {
+      "name": "Interface technology",
+      "items": [
+        "Logic App",
+        "Power Automate",
+        "3rd Party"
+      ]
+    },
+    {
+      "name": "Workflow type",
+      "items": [
+        "Azure Logic App",
+        "Custom workflow extension",
+        "Dataverse Business process flow",
+        "Dataverse Classic workflow",
+        "Finance and Operations workflow",
+        "Other",
+        "Power Automate Flow"
+      ]
+    },
+    {
+      "name": "Report technology",
+      "items": [
+        "Business Performance Analytics (BPA)",
+        "Custom Report",
+        "Dataverse",
+        "Electronic Reporting",
+        "Excel Add-In",
+        "Financial Reporter",
+        "Power BI",
+        "SSRS",
+        "Third-party"
+      ]
+    },
+    {
+      "name": "Report type",
+      "items": [
+        "Analytical",
+        "Audit",
+        "Exception",
+        "Financial",
+        "Management",
+        "Official document",
+        "Operational",
+        "Other",
+        "Regulatory",
+        "Transactional"
+      ]
+    },
+    {
+      "name": "Job type",
+      "items": [
+        "Azure Data Factory Pipeline",
+        "Azure Function",
+        "Azure Logic App",
+        "Batch (one-time)",
+        "Custom",
+        "Dataverse plugin",
+        "Other",
+        "Power Automate",
+        "Recurring batch",
+        "Third-party"
+      ]
+    },
+    {
+      "name": "Job purpose",
+      "items": [
+        "Archiving",
+        "Cleanup",
+        "Cutover or one-time",
+        "Data processing",
+        "Integration",
+        "Monitoring",
+        "Notification",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Job execution type",
+      "items": [
+        "API triggered",
+        "Event-driven",
+        "Manual",
+        "Scheduled"
+      ]
+    },
+    {
+      "name": "Responsible party",
+      "items": [
+        "Customer",
+        "Partner"
+      ]
+    },
+    {
+      "name": "Role type",
+      "items": [
+        "Functional",
+        "Governance",
+        "Technical"
+      ]
+    },
+    {
+      "name": "Program areas",
+      "items": [
+        "Business Process Management",
+        "Data Management & Governance",
+        "Executive Leadership",
+        "Infrastructure Management",
+        "Integrations & Interfaces",
+        "Organizational Change Management",
+        "Project Management & Governance",
+        "Reporting & Business Analytics",
+        "Security Management",
+        "Solution Architecture",
+        "Solution Development",
+        "Solution Testing",
+        "Training",
+        "Usability & Experience",
+        "Workflow Management"
+      ]
+    },
+    {
+      "name": "Responsible role",
+      "items": [
+        "Application Administrator",
+        "Build Manager",
+        "Business Analyst",
+        "Business Architect",
+        "Business Change Leads",
+        "Business Lead",
+        "Business Process Owner",
+        "Business Subject Matter Experts (SME)",
+        "Business Unit Sponsors",
+        "Change Management Lead",
+        "Communications Lead",
+        "Compliance Manager",
+        "Data Architect",
+        "Data Migration Analyst",
+        "Data Migration Lead",
+        "Database Administrator",
+        "Delivery Lead",
+        "Deployment Lead",
+        "Developer",
+        "Development Lead",
+        "Enterprise Architect",
+        "Executive - Business (CEO/CFO/COO)",
+        "Executive - Technology (VP/Director/CTO/CIO)",
+        "Executive Sponsor",
+        "Infrastructure Lead",
+        "Integration Analyst",
+        "Integration Architect",
+        "Integration Lead",
+        "Network Administrator",
+        "Program Manager",
+        "Project Manager",
+        "Project Sponsor",
+        "Quality Analyst",
+        "Reporting Analyst",
+        "Reporting Lead",
+        "Security Administrator",
+        "Security Analyst",
+        "Security Developer",
+        "Security Lead",
+        "Solution Architect",
+        "Solution Manager",
+        "Solution Specialist",
+        "Support Analyst",
+        "Support Manager",
+        "Technical Architect",
+        "Testing Lead",
+        "Trainer",
+        "Training Lead",
+        "UX Designer",
+        "Workflow Analyst",
+        "Workflow Lead"
+      ]
+    },
+    {
+      "name": "Contributor",
+      "items": [
+        "Application Administrator",
+        "Build Manager",
+        "Business Analyst",
+        "Business Architect",
+        "Business Change Leads",
+        "Business Lead",
+        "Business Process Owner",
+        "Business Subject Matter Experts (SME)",
+        "Business Unit Sponsors",
+        "Change Management Lead",
+        "Communications Lead",
+        "Compliance Manager",
+        "Data Architect",
+        "Data Migration Analyst",
+        "Data Migration Lead",
+        "Database Administrator",
+        "Delivery Lead",
+        "Deployment Lead",
+        "Developer",
+        "Development Lead",
+        "Enterprise Architect",
+        "Executive - Business (CEO/CFO/COO)",
+        "Executive - Technology (VP/Director/CTO/CIO)",
+        "Executive Sponsor",
+        "Infrastructure Lead",
+        "Integration Analyst",
+        "Integration Architect",
+        "Integration Lead",
+        "Network Administrator",
+        "Program Manager",
+        "Project Manager",
+        "Project Sponsor",
+        "Quality Analyst",
+        "Reporting Analyst",
+        "Reporting Lead",
+        "Security Administrator",
+        "Security Analyst",
+        "Security Developer",
+        "Security Lead",
+        "Solution Architect",
+        "Solution Manager",
+        "Solution Specialist",
+        "Support Analyst",
+        "Support Manager",
+        "Technical Architect",
+        "Testing Lead",
+        "Trainer",
+        "Training Lead",
+        "UX Designer",
+        "Workflow Analyst",
+        "Workflow Lead"
+      ]
+    },
+    {
+      "name": "Estimated complexity",
+      "items": [
+        "L - Large",
+        "M - Medium",
+        "S - Small",
+        "XL - Extra Large",
+        "XS - Extra Small"
+      ]
+    },
+    {
+      "name": "Estimated project impact",
+      "items": [
+        "Critical",
+        "High",
+        "Low",
+        "Medium"
+      ]
+    },
+    {
+      "name": "Approval types",
+      "items": [
+        "AI-assisted",
+        "Automatic",
+        "Compliance approval",
+        "Delegated",
+        "Escalated",
+        "External approval",
+        "Group approval",
+        "Hierarchical",
+        "Manual",
+        "Named user",
+        "Other",
+        "Parallel",
+        "Role-based",
+        "Rule-based",
+        "Sequential"
+      ]
+    },
+    {
+      "name": "Report audience",
+      "items": [
+        "Cross-functional",
+        "External - Customer",
+        "External - Vendor",
+        "Internal - Executive",
+        "Internal - Technical",
+        "Internal - Operational",
+        "Other",
+        "Regulatory & Compliance"
+      ]
+    },
+    {
+      "name": "Execution frequency",
+      "items": [
+        "Ad hoc",
+        "Annually",
+        "Bi-weekly",
+        "Daily",
+        "Event-driven",
+        "Hourly",
+        "Monthly",
+        "Other",
+        "Quarterly",
+        "Weekly"
+      ]
+    },
+    {
+      "name": "Cutover method",
+      "items": [
+        "Manual configuration",
+        "Data migration upload",
+        "Copy gold database",
+        "Database export/import",
+        "Integration sync",
+        "Initial data sync",
+        "Continuous sync",
+        "Third-party tool migration",
+        "AI-Generated configuration",
+        "Unspecified"
+      ]
+    },
+    {
+      "name": "Microsoft workshop type",
+      "items": [
+        "Storyboard",
+        "Storyline design review",
+        "Detailed design",
+        "FastTrack"
+      ]
+    },
+    {
+      "name": "Severity",
+      "items": [
+        "1 - Critical",
+        "2 - High",
+        "3 - Medium",
+        "4 - Low"
+      ]
+    },
+    {
+      "name": "Issue type",
+      "items": [
+        "Budget",
+        "General",
+        "Resource",
+        "Scope",
+        "Timeline"
+      ]
+    },
+    {
+      "name": "Impact severity",
+      "items": [
+        "1 - Critical",
+        "2 - High",
+        "3 - Medium",
+        "4 - Low"
+      ]
+    },
+    {
+      "name": "Risk category",
+      "items": [
+        "External",
+        "Functional",
+        "Management",
+        "Organizational",
+        "Technical"
+      ]
+    },
+    {
+      "name": "Risk response",
+      "items": [
+        "Accept",
+        "Avoid",
+        "Mitigate",
+        "Transfer"
+      ]
+    },
+    {
+      "name": "Change request type",
+      "items": [
+        "Design Change",
+        "Estimation Change",
+        "Scope Change"
+      ]
+    },
+    {
+      "name": "Grade",
+      "items": [
+        "A - Met all objectives",
+        "B - Mostly complete",
+        "C - Needs more work",
+        "D - Needs significant work",
+        "F - Failed to meet objectives"
+      ]
+    },
+    {
+      "name": "Support level",
+      "items": [
+        "1 - Help Desk",
+        "2 - Internal Escalation",
+        "3 - Partner",
+        "4 - Vendor"
+      ]
+    },
+    {
+      "name": "Resolution type",
+      "items": [
+        "1 - No problem found",
+        "2 - Training needed",
+        "3 - Configuration change",
+        "4 - Enhancement required",
+        "5 - Defect identified",
+        "6 - Project request"
+      ]
+    },
+    {
+      "name": "Objective type",
+      "items": [
+        "Executive",
+        "Project",
+        "Sprint",
+        "Tollgate"
+      ]
+    },
+    {
+      "name": "Author",
+      "items": [
+        "Microsoft",
+        "Partner",
+        "Project"
+      ]
+    },
+    {
+      "name": "Interface model",
+      "items": [
+        "Point-to-Point",
+        "Hub-and-Spoke",
+        "API-Based",
+        "File-Based",
+        "Message Queue",
+        "Event-Driven",
+        "Hybrid",
+        "Dual Write-Standard",
+        "Dual Write-Custom",
+        "Dual Write-Hybrid"
+      ]
+    },
+    {
+      "name": "Initial data sync mechanism",
+      "items": [
+        "Full Load",
+        "Incremental Load",
+        "Delta Load",
+        "Bulk Import",
+        "Real-Time Sync",
+        "Manual Upload",
+        "Staged Migration",
+        "Dual Write Initial Sync",
+        "Dual Write Incremental Sync",
+        "Dual Write Full Refresh"
+      ]
+    },
+    {
+      "name": "Source entity",
+      "items": [
+        "Text in ADO",
+        "Relationship in Mavim"
+      ]
+    },
+    {
+      "name": "Target entity",
+      "items": [
+        "Text in ADO",
+        "Relationship in Mavim"
+      ]
+    }
+  ],
+  "exportDate": "2026-01-25T14:35:11.3475255+01:00"
+}

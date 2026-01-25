@@ -1,0 +1,346 @@
+[
+  {
+    "name": "End to end",
+    "description": "The top-level node of the Business Process Catalog.",
+    "color": "003366",
+    "icon": "icon_crown",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Process area",
+    "description": "The second level nodes within the Business Process Catalog.",
+    "color": "0057B8",
+    "icon": "icon_government",
+    "isDisabled": false,
+    "inheritsFrom": "Microsoft.VSTS.WorkItemTypes.Epic"
+  },
+  {
+    "name": "Process",
+    "description": "The third level node of the Business Process Catalog which are system agnostic.",
+    "color": "0078D4",
+    "icon": "icon_pull_request",
+    "isDisabled": false,
+    "inheritsFrom": "Microsoft.VSTS.WorkItemTypes.Feature"
+  },
+  {
+    "name": "Scenario",
+    "description": "The fourth level node of the Business Process Catalog which now moves into how to perform each Scenario within a given application.",
+    "color": "3399FF",
+    "icon": "icon_clipboard",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "System process",
+    "description": "The fifth level in the Business Process Catalog. At this level we are normally declaring each form that is used to complete the Scenario.",
+    "color": "66B2FF",
+    "icon": "icon_gear",
+    "isDisabled": false,
+    "inheritsFrom": "Microsoft.VSTS.WorkItemTypes.UserStory"
+  },
+  {
+    "name": "Test case",
+    "description": "The collection of all Steps that are needed field by field and click by click to complete the action in a given application.",
+    "color": "99CCFF",
+    "icon": "icon_test_beaker",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Requirement",
+    "description": "A requirement gathered from the business communicating a detail about how the processes and/or system should function.",
+    "color": "773B93",
+    "icon": "icon_code_response",
+    "isDisabled": false,
+    "inheritsFrom": "Microsoft.VSTS.WorkItemTypes.Requirement"
+  },
+  {
+    "name": "Workflow",
+    "description": "A deliverable required in order to configure and setup a Workflow for approval, automation and sophisticated alerts for a Process to function as desired.",
+    "color": "003399",
+    "icon": "icon_clipboard",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Report",
+    "description": "A deliverable to create on enhance a Report, Dashboard or Analytic in order to allow a Process to function properly.",
+    "color": "222222",
+    "icon": "icon_pull_request",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Integration",
+    "description": "A deliverable between two or more systems for a given process to function as desired.",
+    "color": "444444",
+    "icon": "icon_chart",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Configuration",
+    "description": "A deliverable required to Configure/Setup the system to modify the way it operates without development in order for the processes to occur as desired.",
+    "color": "666666",
+    "icon": "icon_code_review",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Enhancement",
+    "description": "A deliverable required in order to modify the application with development in order for the processes to function as desired.",
+    "color": "888888",
+    "icon": "icon_database_storage",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Documentation",
+    "description": "A deliverable required to document a given Process to communicate to the business users what the Policies are and how to perform the given Process during routine operations.",
+    "color": "AAAAAA",
+    "icon": "icon_flame",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Job",
+    "description": "A deliverable that will be used to schedule routine background jobs to perform automated functions to update records for specific criteria. For example, automatically invoice all Sales Orders that have had products delivered for the current day.",
+    "color": "BBBBBB",
+    "icon": "icon_sticky_note",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Migration",
+    "description": "A deliverable required to create or update data to provide the records within the system, this could be a migration from one system to another, mass update of existing data, or possibly a script to change existing data.",
+    "color": "333333",
+    "icon": "icon_headphone",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Personalization",
+    "description": "A deliverable required to configure the user interface to optimize the controls and efficiency for the effected processes.",
+    "color": "555555",
+    "icon": "icon_airplane",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Security",
+    "description": "A deliverable required to build or configure the security objects in order to control which users are allowed to access or perform which processes.",
+    "color": "777777",
+    "icon": "icon_key",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Infrastructure",
+    "description": "A deliverable that tracks any type of item needed by IT Infrastructure such as hardware, network, security, etc.",
+    "color": "7B0052",
+    "icon": "icon_crown",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Environment",
+    "description": "A deliverable that tracks any type of item needed by IT Infrastructure such as hardware, network, security, etc.",
+    "color": "773B93",
+    "icon": "icon_trophy",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Tree",
+    "description": "The Tree work item is used to delineate the topmost node of the different backlog types such as Business Process Catalog, Deliverables and Delivery Plan.",
+    "color": "999999",
+    "icon": "icon_palette",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Folder",
+    "description": "The folder work item type simply allows for various levels of folders or groupings to organize large lists of work items into logical groupings.",
+    "color": "FFC300",
+    "icon": "icon_book",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Functional area",
+    "description": "Groupings of Scenarios by the Functional Area or Department that will perform these Processes. Examples are Accounts Payable, Sales, Inventory Management, etc.",
+    "color": "FFE066",
+    "icon": "icon_list",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Phase",
+    "description": "Phases allow the partner to place their various phases into the Delivery Plan to provide an overview of when and how the project will be executed.",
+    "color": "FFD700",
+    "icon": "icon_diamond",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Workshop",
+    "description": "The Workshop type is used to catalog that a key meeting exists within the partner's methodology to be placed in the Delivery Plan backlog.",
+    "color": "FFE600",
+    "icon": "icon_parachute",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Deliverable",
+    "description": "This is a work item that defines a Deliverable that will be produced such as the Business Process Catalog, Solution Blueprint, Delivery Plan or Readiness Assessment.",
+    "color": "71338D",
+    "icon": "icon_megaphone",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Testing",
+    "description": "A Work Product to catalog the various Testing events that will occur within the Delivery Plan.",
+    "color": "E87025",
+    "icon": "icon_gift",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Task",
+    "description": "A Task declares that something needs to be done in order to move a Deliverable or Workshop towards completion. The Task is used to communicate what needs to be done, who needs to do it, when should it be done, what the current status is and estimated time.",
+    "color": "00643A",
+    "icon": "icon_ribbon",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Business task",
+    "description": "A Task that will be integrated with the Mavim application to allow business users to be assigned tasks",
+    "color": "F2CB1D",
+    "icon": "icon_check_box",
+    "isDisabled": false,
+    "inheritsFrom": "Microsoft.VSTS.WorkItemTypes.Task"
+  },
+  {
+    "name": "Action item",
+    "description": "Quick actions, not requiring estimates, a parent work item but must be assigned to someone to ensure completion.",
+    "color": "F2E085",
+    "icon": "icon_chat_bubble",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "User story",
+    "description": "Not used",
+    "color": "FF6666",
+    "icon": "icon_asterisk",
+    "isDisabled": true,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Epic",
+    "description": "Not used",
+    "color": "009933",
+    "icon": "icon_chat_bubble",
+    "isDisabled": true,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Feature",
+    "description": "Not used",
+    "color": "7B0052",
+    "icon": "icon_crown",
+    "isDisabled": true,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Bug",
+    "description": "Describes a divergence between required and actual behavior, and tracks the work done to correct the defect and verify the correction.",
+    "color": "773B93",
+    "icon": "icon_trophy",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Risk",
+    "description": "The documentation of a known or perceived Risk that could negatively impact the project timeline, scope or budget with plans to mitigate them.",
+    "color": "CC293D",
+    "icon": "icon_insect",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Assumption",
+    "description": "Any assumptions or work that will have an impact on the project. The log captures the assumption made, who made it and the next steps.",
+    "color": "FF0000",
+    "icon": "icon_clipboard_issue",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Issue",
+    "description": "An Issue is something that has occurred that may impact the project. A \"Risk\" is something that could happen. An \"Issue\" is something that has happened.",
+    "color": "FF4444",
+    "icon": "icon_pull_request",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Decision",
+    "description": "Any decision or work that are have an impact on the project. The log captures the decision made, who made it and the decision / next steps.",
+    "color": "CC0000",
+    "icon": "icon_gavel",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Change request",
+    "description": "The identification that new requirements have come in since the scope of each area has been firmed which requires review and approval by the steering committee to confirm it is allowed to be added to the scope of the project.",
+    "color": "003366",
+    "icon": "icon_test_plan",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Objective",
+    "description": "Objective targeted to be accomplished in a given Sprint or Program Increment/Tollgate",
+    "color": "0057B8",
+    "icon": "icon_test_suite",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Status report",
+    "description": "A work item that captures the cover page content of the status report with additional ADO queries and dashboards as addendums.",
+    "color": "0078D4",
+    "icon": "icon_github_issue",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Test plan",
+    "description": "Tracks test activities for a specific milestone or release.",
+    "color": "FFBBBB",
+    "icon": "icon_chart",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Test suite",
+    "description": "Tracks test activities for a specific feature, requirement, or user story.",
+    "color": "FF3333",
+    "icon": "icon_traffic_cone",
+    "isDisabled": false,
+    "inheritsFrom": null
+  },
+  {
+    "name": "Ticket",
+    "description": "A work item raised by the user to request assistance for break/fix issues, configuration changes, and etc.",
+    "color": "FF9999",
+    "icon": "icon_asterisk",
+    "isDisabled": false,
+    "inheritsFrom": null
+  }
+]
