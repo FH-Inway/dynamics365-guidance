@@ -197,11 +197,11 @@ else {
             $failCount = 0
             $warningCount = 0
             
-            # For testing: only process the first work item type
+            
             $processedCount = 0
             
             foreach ($witMapping in $output) {
-                # if ($processedCount -ge 2) { break }
+                # if ($processedCount -ge 2) { break } # For testing: only process a few work item types
                 
                 $witName = $witMapping.'Work item type'
                 if (-not $witName) { continue }
@@ -211,7 +211,7 @@ else {
                     $skipCount++
                     continue
                 }
-                # if ($witName -ne 'Job') { continue } # For testing: only process Test case
+                # if ($witName -ne 'Action item') { continue } # For testing: only process specific work item type
                 
                 # Check if work item type exists in Azure DevOps
                 if (-not $existingWitMap.ContainsKey($witName)) {
