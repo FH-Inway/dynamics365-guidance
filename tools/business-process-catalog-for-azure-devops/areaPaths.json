@@ -1,0 +1,983 @@
+{
+  "sheetName": "Area paths",
+  "source": "D:\\Repositories\\GitHub\\MicrosoftDocs\\dynamics365-guidance\\tools\\business-process-catalog-for-azure-devops\\ADO template guideline.xlsx",
+  "exportDate": "2026-02-01T16:25:30.2892344+01:00",
+  "areaPaths": [
+    {
+      "team": null,
+      "level1": "BCPTest",
+      "level2": null,
+      "level3": null,
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": null,
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Acquire to dispose",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Case to resolution",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Concept to market",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Design to retire",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Forecast to plan",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Hire to retire",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Inventory to deliver",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Order to cash",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Plan to produce",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Source to pay",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Project to profit",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Prospect to quote",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Record to report",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Service to deliver",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Business process catalog",
+      "level1": "BCPTest",
+      "level2": "Business process catalog",
+      "level3": "Administer to operate",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Deliverables",
+      "level1": "BCPTest",
+      "level2": "Deliverables",
+      "level3": null,
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Delivery plan",
+      "level1": "BCPTest",
+      "level2": "Delivery plan",
+      "level3": null,
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Deliverables",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": null,
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Accounting",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Accounting",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounting",
+      "level5": null
+    },
+    {
+      "team": "Accounting",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounting",
+      "level5": "Accounting"
+    },
+    {
+      "team": "Asset financials",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounting",
+      "level5": "Asset financials"
+    },
+    {
+      "team": "Inventory valuation",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounting",
+      "level5": "Inventory valuation"
+    },
+    {
+      "team": "Organization structure",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounting",
+      "level5": "Organization structure"
+    },
+    {
+      "team": "Accounts payable",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts payable",
+      "level5": null
+    },
+    {
+      "team": "Accounts payable",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts payable",
+      "level5": "Accounts payable"
+    },
+    {
+      "team": "Expense management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts payable",
+      "level5": "Expense management"
+    },
+    {
+      "team": "Supplier management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts payable",
+      "level5": "Supplier management"
+    },
+    {
+      "team": "Supplier trade allowances",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts payable",
+      "level5": "Supplier trade allowances"
+    },
+    {
+      "team": "Accounts receivable",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": null
+    },
+    {
+      "team": "Accounts receivable",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": "Accounts receivable"
+    },
+    {
+      "team": "Customer management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": "Customer management"
+    },
+    {
+      "team": "Customer trade allowances",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": "Customer trade allowances"
+    },
+    {
+      "team": "Project financials",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": "Project financials"
+    },
+    {
+      "team": "Revenue recognition",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Accounts receivable",
+      "level5": "Revenue recognition"
+    },
+    {
+      "team": "Financial analysis",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Financial planning and analysis",
+      "level5": null
+    },
+    {
+      "team": "Budgeting",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Financial planning and analysis",
+      "level5": "Budgeting"
+    },
+    {
+      "team": "Financial analysis",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Financial planning and analysis",
+      "level5": "Financial analysis"
+    },
+    {
+      "team": "Financial compliance",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Tax and compliance",
+      "level5": null
+    },
+    {
+      "team": "Financial compliance",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Tax and compliance",
+      "level5": "Financial compliance"
+    },
+    {
+      "team": "Sales and use tax",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Tax and compliance",
+      "level5": "Sales and use tax"
+    },
+    {
+      "team": "Cash and bank management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Treasury",
+      "level5": null
+    },
+    {
+      "team": "Cash and bank management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Finance",
+      "level4": "Treasury",
+      "level5": "Cash and bank management"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": null
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Benefits management"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Compensation"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Employee engagement"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Human resource compliance"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Organization chart"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Performance"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Recruiting"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Succession planning"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Task management"
+    },
+    {
+      "team": "Human resources",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Human resources",
+      "level5": "Training"
+    },
+    {
+      "team": "Payroll",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Payroll",
+      "level5": null
+    },
+    {
+      "team": "Payroll",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Payroll",
+      "level5": "Labor planning"
+    },
+    {
+      "team": "Payroll",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Payroll",
+      "level5": "Leave and absence"
+    },
+    {
+      "team": "Payroll",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Payroll",
+      "level5": "Payroll"
+    },
+    {
+      "team": "Payroll",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Human resources",
+      "level4": "Payroll",
+      "level5": "Time and attendance"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Applications",
+      "level5": null
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Applications",
+      "level5": "Business intelligence"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Applications",
+      "level5": "Development"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Applications",
+      "level5": "Security management"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Applications",
+      "level5": "System administration"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Infrastructure",
+      "level5": null
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Infrastructure",
+      "level5": "Help desk"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Infrastructure",
+      "level5": "Infrastructure"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Project Management Office (PMO)",
+      "level5": null
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Project Management Office (PMO)",
+      "level5": "Business analysis"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Project Management Office (PMO)",
+      "level5": "Governance"
+    },
+    {
+      "team": "Information technology",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Information technology",
+      "level4": "Project Management Office (PMO)",
+      "level5": "Project management"
+    },
+    {
+      "team": "Procurement",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Product information management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Item management",
+      "level5": null
+    },
+    {
+      "team": "Engineering",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Item management",
+      "level5": "Engineering"
+    },
+    {
+      "team": "Product information management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Item management",
+      "level5": "Product information management"
+    },
+    {
+      "team": "Inventory management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": null
+    },
+    {
+      "team": "Quality",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": "Inventory quality"
+    },
+    {
+      "team": "Inventory management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": "Inbound inventory"
+    },
+    {
+      "team": "Inventory management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": "On-hand inventory"
+    },
+    {
+      "team": "Inventory management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": "Outbound inventory"
+    },
+    {
+      "team": "Transportation management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Logistics",
+      "level5": "Transportation management"
+    },
+    {
+      "team": "Procurement",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Procurement",
+      "level5": null
+    },
+    {
+      "team": "Procurement",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Procurement",
+      "level5": "Procurement"
+    },
+    {
+      "team": "Procurement planning",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Procurement",
+      "level5": "Procurement planning"
+    },
+    {
+      "team": "Purchase pricing and rebates",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Procurement",
+      "level5": "Purchase pricing and rebates"
+    },
+    {
+      "team": "Manufacturing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Production",
+      "level5": null
+    },
+    {
+      "team": "Maintenance",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Production",
+      "level5": "Maintenance"
+    },
+    {
+      "team": "Manufacturing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Production",
+      "level5": "Manufacturing"
+    },
+    {
+      "team": "Production planning",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Production",
+      "level5": "Production planning"
+    },
+    {
+      "team": "Quality",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Production",
+      "level5": "Manufacturing quality"
+    },
+    {
+      "team": "Project delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Project delivery",
+      "level5": null
+    },
+    {
+      "team": "Project delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Project delivery",
+      "level5": "Project delivery"
+    },
+    {
+      "team": "Project delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Project delivery",
+      "level5": "Project time and expenses"
+    },
+    {
+      "team": "Project delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Project delivery",
+      "level5": "Project setup"
+    },
+    {
+      "team": "Service delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Service operations",
+      "level5": null
+    },
+    {
+      "team": "Service delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Service operations",
+      "level5": "Service assets"
+    },
+    {
+      "team": "Service delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Service operations",
+      "level5": "Service delivery"
+    },
+    {
+      "team": "Service delivery",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Operations",
+      "level4": "Service operations",
+      "level5": "Service planning"
+    },
+    {
+      "team": "Order management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": null,
+      "level5": null
+    },
+    {
+      "team": "Customer service",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Contact center",
+      "level5": null
+    },
+    {
+      "team": "Customer service",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Contact center",
+      "level5": "Customer service"
+    },
+    {
+      "team": "Order management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Contact center",
+      "level5": "Order management"
+    },
+    {
+      "team": "eCommerce",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Commerce",
+      "level5": null
+    },
+    {
+      "team": "eCommerce",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Commerce",
+      "level5": "Content management"
+    },
+    {
+      "team": "eCommerce",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Commerce",
+      "level5": "B2B eCommerce"
+    },
+    {
+      "team": "eCommerce",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Commerce",
+      "level5": "B2C eCommerce"
+    },
+    {
+      "team": "Store management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Commerce",
+      "level5": "Store management"
+    },
+    {
+      "team": "Marketing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Marketing",
+      "level5": null
+    },
+    {
+      "team": "Marketing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Marketing",
+      "level5": "Marketing analytics"
+    },
+    {
+      "team": "Marketing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Marketing",
+      "level5": "Marketing automation"
+    },
+    {
+      "team": "Marketing",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Marketing",
+      "level5": "Marketing events"
+    },
+    {
+      "team": "Order entry",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales execution",
+      "level5": null
+    },
+    {
+      "team": "Order entry",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales execution",
+      "level5": "Order entry"
+    },
+    {
+      "team": "Sales funnel",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales execution",
+      "level5": "Sales funnel"
+    },
+    {
+      "team": "Sales management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales strategy",
+      "level5": null
+    },
+    {
+      "team": "Sales management",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales strategy",
+      "level5": "Sales management"
+    },
+    {
+      "team": "Sales planning",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales strategy",
+      "level5": "Sales planning"
+    },
+    {
+      "team": "Sales pricing and rebates",
+      "level1": "BCPTest",
+      "level2": "Functional areas",
+      "level3": "Sales",
+      "level4": "Sales strategy",
+      "level5": "Sales pricing and rebates"
+    }
+  ]
+}
